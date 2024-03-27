@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "Button Counter",
+    "description": "Counts the buttons on the current page",
+    "version": "1.0",
+    "permissions": [
+        "activeTab"
+    ],
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "x.png",
+            "48": "x.png",
+            "128": "x.png"
+        }
+    },
+    "icons": {
+        "16": "y.png",
+        "48": "y.png",
+        "128": "y.png"
+    }
+}
