@@ -6,8 +6,9 @@ window.onload = function () {
         code: `(() => {
             // You can write multiple lines of JavaScript here
             const buttons = document.querySelectorAll("button");
+            
             buttons.forEach(button => {
-              button.style.border = "1px solid red";
+              button.style.border = "2px solid red";
             });
             const buttonCount = buttons.length;
              const links= document.querySelectorAll("link")

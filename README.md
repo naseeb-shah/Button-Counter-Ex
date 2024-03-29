@@ -28,3 +28,4 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -am 'Add some feature'`).
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Create a new Pull Request.
+6. I review you and commit
